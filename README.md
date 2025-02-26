@@ -1,6 +1,6 @@
 # 📂 Proyecto de Ordenamiento en Java 
 
-Esto para la tarea de Estructura de Datos - Universidad Da Vinci de Guatemala
+Tarea de Estructura de Datos - Universidad Da Vinci de Guatemala
 
 Este es un programa en **Java** que implementa varios algoritmos de ordenamiento, como:
 
