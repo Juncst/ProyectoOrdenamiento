@@ -24,14 +24,16 @@ git clone https://github.com/Juncst/ProyectoOrdenamiento.git
 ### 2️⃣ Compilar el código  
 Abre una terminal en la raíz del proyecto y ejecuta: 
 ```bash
-javac -d ../bin main/*.java
+javac -d bin src/main/*.java
+
 
 Esto con el fin de no obtener ningún error a la hora de crear los .class
 ```
 
 ### 3️⃣ Ejecutar el programa  
+Agre una terminal en la raíz del proyecto y ejecuta: 
 ```bash
-java -cp ../bin main.ProyectoOrdenamiento
+java -cp src/bin main.ProyectoOrdenamiento
 ```
 
 ---
@@ -43,4 +45,8 @@ java -cp ../bin main.ProyectoOrdenamiento
 
 ---
 ## **Link del video**
--pendiente-
+```bash
+https://youtu.be/miGaPEcmqwU
+```
+📌 Nota: El video es algo extenso, si solo deseas ver la ejecución del programa, puedes ir al minuto 22:30.
+
